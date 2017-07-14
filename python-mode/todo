@@ -2,4 +2,4 @@
 # name: todo
 # key: todo
 # --
-# TODO: (`(user-full-name)`)
+# TODO: (`(user-login-name)`)
